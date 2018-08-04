@@ -1,0 +1,9 @@
+div.intro {
+  background-color: black;
+  text-align: center;
+  color: red;
+}
+
+span.subtitle {
+  font-style: italic;
+}
