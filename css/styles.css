@@ -7,3 +7,7 @@ div.intro {
 span.subtitle {
   font-style: italic;
 }
+
+img {
+  float: left;
+}
